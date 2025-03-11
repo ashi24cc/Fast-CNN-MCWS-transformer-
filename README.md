@@ -1,8 +1,6 @@
 # Fast-CNN-MCWS-transformer
 This repository contains the source code for the Fast (CNN + MCWS-transformer)-based architecture for Protein Function Prediction
 
-This is repository for Global-ProtEnc Plus.
-
 This has following main python files.
 
 Segmentation.py - This python file contains the code for doing the segmenation of the protein sequences used for trining the segment encoder.
