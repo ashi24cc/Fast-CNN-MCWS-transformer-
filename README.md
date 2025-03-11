@@ -7,7 +7,7 @@ This has following main python files.
 
 Segmentation.py - This python file contains the code for doing the segmenation of the protein sequences used for trining the segment encoder.
 
-model.py - This contains the code for the segment encoder.
+Fast-MCWS.py - This contains the code for the segment encoder.
 
 train.py - This contains the code for training the segment encoder.
 
