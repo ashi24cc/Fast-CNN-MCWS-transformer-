@@ -12,3 +12,5 @@ train.py - This contains the code for training the segment encoder.
 evaluate.py - This contains the code for the evaluation metrics.
 
 The datasets are available for download at google drive: https://bit.ly/3n4giKs
+
+The paper is under process at: Statistical Applications in Genetics and Molecular Biology
