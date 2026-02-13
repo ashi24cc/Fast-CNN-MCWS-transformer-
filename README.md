@@ -1,5 +1,7 @@
 # Fast-CNN-MCWS-transformer
-This repository contains the source code for the Fast (CNN + MCWS-transformer)-based architecture for Protein Function Prediction
+This repository contains the source code for the Fast (CNN + MCWS-transformer)-based architecture for Protein Function Prediction.
+
+![Alt Text](Images/image.png)
 
 This has following main python files.
 
